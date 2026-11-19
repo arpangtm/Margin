@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key><string>Margin</string>
+    <key>CFBundleIdentifier</key><string>local.margin.stickynotes</string>
+    <key>CFBundleName</key><string>Margin</string>
+    <key>CFBundleDisplayName</key><string>Margin</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.4.1</string>
+    <key>CFBundleVersion</key><string>7</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Margin uses Apple Notes to read and save stickies in the Margin folder in iCloud.</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>Margin uses the Margin list in iCloud Reminders to display, schedule, and complete your tasks.</string>
+</dict>
+</plist>
